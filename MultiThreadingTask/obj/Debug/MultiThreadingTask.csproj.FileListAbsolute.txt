@@ -1,0 +1,7 @@
+C:\Users\Huawei\OneDrive\Masaüstü\Optimum Sinerji\KOD YAPILARIM\MultiThreadingTask\bin\Debug\MultiThreadingTask.exe.config
+C:\Users\Huawei\OneDrive\Masaüstü\Optimum Sinerji\KOD YAPILARIM\MultiThreadingTask\bin\Debug\MultiThreadingTask.exe
+C:\Users\Huawei\OneDrive\Masaüstü\Optimum Sinerji\KOD YAPILARIM\MultiThreadingTask\bin\Debug\MultiThreadingTask.pdb
+C:\Users\Huawei\OneDrive\Masaüstü\Optimum Sinerji\KOD YAPILARIM\MultiThreadingTask\obj\Debug\MultiThreadingTask.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Masaüstü\Optimum Sinerji\KOD YAPILARIM\MultiThreadingTask\obj\Debug\MultiThreadingTask.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Masaüstü\Optimum Sinerji\KOD YAPILARIM\MultiThreadingTask\obj\Debug\MultiThreadingTask.exe
+C:\Users\Huawei\OneDrive\Masaüstü\Optimum Sinerji\KOD YAPILARIM\MultiThreadingTask\obj\Debug\MultiThreadingTask.pdb
